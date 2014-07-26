@@ -1,4 +1,4 @@
-Here is a change from windows, will conflict in linux{
+this is a conflict{
 	public static void main(String[] args){
 		System.out.println("test aa.");
 	}
